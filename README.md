@@ -27,7 +27,7 @@ Introduction to Pandas: Meet our lovable panda and embark on your data analysis 
 
 
 ## 💡 How to Use 💡
-Open the [Jupiter notebook](https://github.com/Vinodhini96/KnowlBook_Pandas_cheetsheet/blob/main/KnowlBook.ipynb) and let our delightful panda character guide you through the cheatsheet with storytelling and simple explanations. Get ready to be amazed!
+Open the [Jupiter notebook]([https://github.com/Vinodhini96/KnowlBook_Pandas_cheetsheet/blob/main/KnowlBook.ipynb)](https://github.com/Vinodhini96/KnowlBook_Pandas_cheetsheet/blob/main/KnowlBook_Vinodhini.ipynb) and let our delightful panda character guide you through the cheatsheet with storytelling and simple explanations. Get ready to be amazed!
 
 ## 🎨 Code Examples 🎨
 In the notebook, you'll find captivating code examples for each concept, beautifully woven with storytelling to make learning a delightful experience.
