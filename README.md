@@ -3,10 +3,13 @@
 # 🐼📊 Data Analysis with Pandas Cheatsheet 🐼📊
 
 
-
 ## Welcome to the World of Data Analysis with Pandas! 🎉
 
 Our charming panda character is here to be your guide in this exciting journey through the amazing world of Pandas in Python. Get ready to unleash the power of data manipulation and exploration with ease and creativity!
+
+
+![Mr panda(main character)](https://github.com/Vinodhini96/KnowlBook_Pandas_cheetsheet/assets/113685419/70dae1b5-d071-4fd0-b131-0edd36e8a1c6)
+
 
 ## 📚 Table of Contents 📚
 
@@ -34,5 +37,8 @@ We cherish contributions! If you have any suggestions, find delightful improveme
 
 ## 🧙‍♂️ Author 🧙‍♀️
 This magical cheatsheet was conjured up by [Vinodhini Rajamanickam](https://github.com/Vinodhini96), inspired by the love for pandas and the wonders of data analysis.
+
+(Note: The delightful panda character and other images used in this cheatsheet were lovingly created by the author [Vinodhini Rajamanickam](https://github.com/Vinodhini96) using various creative tools. The images are available in the [GitHub repository](https://github.com/Vinodhini96/KnowlBook_Pandas_cheetsheet/tree/main/knowlBook_Images) for everyone to enjoy. Additionally, 2-3 images have been taken from the web and creatively edited to complement the content of this cheatsheet.)
+
 
 ## 🚀 Let's Begin the Data Analysis Adventure! 🚀
